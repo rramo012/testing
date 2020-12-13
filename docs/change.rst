@@ -4,7 +4,7 @@ Hello worldsss
 
 What is it?
 ----------
-This is a **RST** document!
+This is a **RST** documfent!
 
 Where can I get it?
 -------------------
